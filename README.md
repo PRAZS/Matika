@@ -41,5 +41,5 @@
 
 ## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
-* [`Youtube Admin`](https://youtube.com/MzPrazs)
+* [`Youtube Admin`](https://m.youtube.com/channel/UC7_aeMM5bVLVo7WCZyTjUGQ)
 * [`Instagram Admin`](https://instagram.com/itsme_prazs)
