@@ -2,7 +2,7 @@
 <br>
 
 <p align="center">
-<a href="https://github.com/PRAZS"><img title="Author" src="https://img.shields.io/badge/AUTHOR-RAMLAN-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/PRAZS"><img title="Author" src="https://img.shields.io/badge/AUTHOR- PRAZS-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/PRAZS/Matika/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/PRAZS/Matikacolor=red&style=flat-square"></a>
